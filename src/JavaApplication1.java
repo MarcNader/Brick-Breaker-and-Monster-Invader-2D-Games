@@ -51,7 +51,7 @@ ImageView bk= new ImageView("file:d.jpeg");
         fd.setFromValue(10);  
         fd.setToValue(0.1);  
         fd.play();
-Button n1=new Button("Break It");
+Button n1=new Button("Brick Breaker");
 n1.setTranslateX(900);
 n1.setTranslateY(230);
 n1.setPrefSize(220, 30);
