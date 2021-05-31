@@ -65,7 +65,7 @@ mod.setTranslateY(310);
 mod.setPrefSize(220, 30);
 mod.setCursor(Cursor.HAND);
 
-Button mode3= new Button("Kill It");
+Button mode3= new Button("Monster Invader");
 mode3.setTranslateX(900);
 mode3.setTranslateY(390);
 mode3.setPrefSize(220, 30);
